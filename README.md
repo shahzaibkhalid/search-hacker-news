@@ -11,9 +11,9 @@ This is the UI looks like:
 ![search hacker news](./build/static/images/search-hacker-news.png)
 
 ## Demo
-You can use Move Planner by clicking [here](https://shahzaibkhalid.github.io/search-hacker-news/).
+You can use Search Hacker News by clicking [here](https://shahzaibkhalid.github.io/search-hacker-news/).
 
 ## License
-Move Planner is licensed under the [MIT License](https://github.com/shahzaibkhalid/search-hacker-news/blob/master/LICENSE.txt).
+Search Hacker News is licensed under the [MIT License](https://github.com/shahzaibkhalid/search-hacker-news/blob/master/LICENSE.txt).
 
 Copyright (c) 2017 Shahzaib Khalid
